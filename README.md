@@ -57,11 +57,7 @@ This project runs entirely on the client-side and requires no special server set
 
 ### Installation & Launch
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/srikarmalla/rideswap.git](https://github.com/srikarmalla/rideswap.git)
-    cd rideswap
-    ```
+
 
 2.  **Open the application:**
     You can simply open the `login.html` file directly in your browser.
@@ -145,8 +141,8 @@ Contributions are welcome! If you'd like to help improve RideSwap, please follow
 | **Vineet Kashyap**| Creative Director    |
 
 ### 📞 Contact
--   **Email**: srikarmalla06@gmail.com
--   **Phone**: +91 8328583198
+-   **Email**: nikhilreddybikkam@gmail.com
+-   **Phone**: +91 7989032255
 -   **Address**: Ettimadai, Coimbatore
 
 ---
